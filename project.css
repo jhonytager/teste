@@ -1,0 +1,134 @@
+body{
+    color: aliceblue;
+    background-color: black;
+  text-align: flex;
+
+}
+.A1{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    text-align: flex;
+}
+
+
+
+.A1 img{
+    background-position: right;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    border: 5px solid purple;
+    text-align: right;
+    padding-left: 16px;
+}
+.A2{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    text-align: flex;
+    
+   
+
+}
+.A2 img{
+    
+    
+    list-style-type: none;
+    align-items: left;
+    padding: 16px;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    border: 5px solid #993399;
+    text-align: left;
+
+}
+.A3{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    text-align: flex;
+}
+.A3 img{
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    width: 500px;
+    height: 500px;
+    border-radius: 100%;
+    border: 5px solid #993399;
+    text-align: center;
+
+}
+.A4{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    text-align: flex;
+
+}
+.A4 img{
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    width: 500px;
+    height: 500px;
+    border-radius: 100%;
+    border: 5px solid #993399;
+    text-align: center;
+}
+.A5{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    text-align: flex;
+}
+.A5 img{
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    width: 500px;
+    height: 500px;
+    border-radius: 100%;
+    border: 5px solid #993399;
+    text-align: center;
+}
+.A6{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    text-align: flex;
+}
+.A6 img{
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    width: 500px;
+    height: 500px;
+    border-radius: 100%;
+    border: 5px solid #993399;
+    text-align: center;
+}.A7{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    text-align: flex;
+}
+.A7 img{
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    width: 500px;
+    height: 500px;
+    border-radius: 100%;
+    border: 5px solid #993399;
+    text-align: center;
+}
